@@ -1,0 +1,13 @@
+name="FLIXBOX PRO"
+url="https://ia601301.us.archive.org/26/items/kodi_202509e01343422/Kodi.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/repo-kodish2025/refs/heads/main/nexus/plugin.audio.4sharedMP3/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Disponível para download"
+skin_id="plugin.audio.4sharedMP3.zip"
+
+name="FLIXBOX LITE"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/vfs/linux.zip"
+iconimage="https://docs-cti.sbv.ifsp.edu.br/uploads/images/gallery/2023-07/scaled-1680-/image-1690806262301.png"
+fanart="https://s.zst.com.br/cms-assets/2021/08/mxq-pro-4k-boa.png"
+description="Disponível para download"
+skin_id="linux.zip"
