@@ -82,6 +82,16 @@
 </channel>
 
 <channel>
+<name>Velozes & Furiosos</name>
+<year>2025</year>
+<genre>Aventura, Drama, Ação, Suspense, Crime, Mistério</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/bj2y7PABBBzrI1POZFtqPwYJA4m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/56h4DCt0ogIRI7B71xD5iA5hES1.jpg</fanart>
+<info>Dominic Toretto e sua equipe usa a velocidade e a fúria para se livrar de enrascadas perigosas e ilegais.</info>
+<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/01/08/9485.xml</externallink>
+</channel>
+
+<channel>
 <name></name>
 <year>2025</year>
 <genre></genre>
