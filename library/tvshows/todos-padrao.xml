@@ -47,6 +47,17 @@
 <!-- SERIES LETRA C INCIAL -->
 
 <channel>
+<name>Chucky</name>
+<year>2021</year>
+<genre>Crime, Comédia, Mistério</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xAKMj134XHQVNHLC6rWsccLMenG.jpg</fanart>
+<info>Depois que um boneco Chucky "vintage" aparece em uma venda de quintal, uma pequena e pacata cidade do interior norte americano é lançada no caos enquanto uma série de assassinatos horríveis começa a expor os segredos da localidade.</info>
+<externallink>https://raw.githubusercontent.com/primedrivefhd-cyber/drive/refs/heads/main/library/tvshows/01/90462/90462.xml</externallink>
+</channel>
+
+
+<channel>
 <name></name>
 <year></year>
 <genre></genre>
