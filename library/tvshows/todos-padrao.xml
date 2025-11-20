@@ -210,6 +210,16 @@
 </channel>
 
 <channel>
+<name>Invasão</name>
+<year>2021</year>
+<genre>Sci-Fi & Fantasy, Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/wDR8diLNJdlH5d4KzNnZXur9A6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yG3B6rtcWxlECpacaOzldW5tt0w.jpg</fanart>
+<info>Uma visita extraterrestre ameaça a existência humana. Os impactos dessa chegada são acompanhados em tempo real por cinco pessoas comuns. Em cantos diferentes do planeta, elas tentam encontrar sentido em meio ao caos.</info>
+<externallink>https://raw.githubusercontent.com/primedrivefhd-cyber/drive/refs/heads/main/library/tvshows/01/127235/127235.xml</externallink>
+</channel>
+
+<channel>
 <name>Impuros</name>
 <year>2025</year>
 <genre>Crime, Drama, Action & Adventure</genre>
