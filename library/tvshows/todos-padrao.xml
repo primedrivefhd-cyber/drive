@@ -302,6 +302,16 @@
 <!-- SERIES LETRA O INCIAL -->
 
 <channel>
+<name>Origem</name>
+<year>2022</year>
+<genre>Mistério, Drama, Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg</fanart>
+<info>Desvende o mistério de uma cidade no centro dos EUA. Enquanto os moradores lutam para manter um senso de normalidade, eles também devem sobreviver às ameaças da floresta ao redor, incluindo as criaturas aterrorizantes que surgem quando o sol se põe.</info>
+<externallink>https://raw.githubusercontent.com/primedrivefhd-cyber/drive/refs/heads/main/library/tvshows/01/124364/124364.xml</externallink>
+</channel>
+
+<channel>
 <name></name>
 <year></year>
 <genre></genre>
