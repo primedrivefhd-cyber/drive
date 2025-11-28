@@ -460,6 +460,16 @@
 </channel>
 
 <channel>
+<name>Stranger Things</name>
+<year>2016</year>
+<genre>Sci-Fi & Fantasy, Mistério, Action & Adventure</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/rbnuP7hlynAMLdqcQRCpZW9qDkV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg</fanart>
+<info>Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.</info>
+<externallink>https://raw.githubusercontent.com/primedrivefhd-cyber/drive/refs/heads/main/library/tvshows/01/66732/66732.xml</externallink>
+</channel>
+
+<channel>
 <name>Solo Leveling</name>
 <year>2024</year>
 <genre>Animação, Action & Adventure, Sci-Fi & Fantasy</genre>
