@@ -459,6 +459,17 @@
 <!-- SERIES LETRA R INCIAL -->
 
 <channel>
+<name>Robin Hood</name>
+<year>2025</year>
+<genre>Drama e Action & Adventure</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/8rc0CmErcqvncULcq5IEVkBvbHP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uoIOfRNmu47P2fET2KnrYHt3TH.jpg</fanart>
+<info>A jornada de Robert Locksley, de filho de guarda-florestal a fora-da-lei, começa. A rebelião começa em Sherwood, intrigas aumentam, e nasce uma lenda.</info>
+<externallink>https://raw.githubusercontent.com/primedrivefhd-cyber/drive/refs/heads/main/library/tvshows/01/272418/01.xml</externallink>
+</channel>
+
+
+<channel>
 <name>Reacher</name>
 <year>2022</year>
 <genre>Action & Adventure, Drama, Crime</genre>
