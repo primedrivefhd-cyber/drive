@@ -534,6 +534,17 @@
 <!-- SERIES LETRA T INCIAL -->
 
 <channel>
+<name>Twisted Metal</name>
+<year>2023</year>
+<genre>Action & Adventure e Comédia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6wLJiFwmuZNvTiE9aqFqx4dDcWh.jpg</fanart>
+<info>Um forasteiro deve atravessar uma terra arrasada pós-apocalíptica para entregar um pacote misterioso em busca da promessa de uma vida melhor.</info>
+<externallink>https://raw.githubusercontent.com/primedrivefhd-cyber/drive/refs/heads/main/library/tvshows/01/133748/133748.xml</externallink>
+</channel>
+
+
+<channel>
 <name>Todo Mundo Ainda Odeia o Chris</name>
 <year>2024</year>
 <genre>Comédia, Animação</genre>
