@@ -371,6 +371,16 @@
 <!-- SERIES LETRA N INCIAL -->
 
 <channel>
+<name>NCIS: Tony & Ziva</name>
+<year>2025</year>
+<genre>Action & Adventure, Drama e Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/zNIANQsAs2kbxbzbTTe5dTBzhKe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ub0xUWZUBoAwy1eBG1uwi9ikaVg.jpg</fanart>
+<info>Os ex-agentes Tony e Ziva estão criando sua filha em Paris. Quando a empresa de segurança de Tony é atacada, eles devem fugir pela Europa para descobrir quem está atrás deles - e talvez conseguir confiar um no outro novamente.</info>
+<externallink>https://raw.githubusercontent.com/primedrivefhd-cyber/drive/refs/heads/main/library/tvshows/01/247732.xml</externallink>
+</channel>
+
+<channel>
 <name></name>
 <year></year>
 <genre></genre>
