@@ -127,6 +127,16 @@
 <!-- SERIES LETRA C INCIAL -->
 
 <channel>
+<name>Chapolin e Os Colorados</name>
+<year>2026</year>
+<genre>Animação e Comédia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/hxb5sC1ZMXN4bEs1t6RKmLWhqt0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ldG4BHBYToWMN6OoUH0DXC2x6dB.jpg</fanart>
+<info>Chapolin Colorado está de volta e agora tem família. Ao lado da esposa, dos filhos e da avó, precisa salvar Cidade Caótica enquanto encara o caos em casa. Dos homens das cavernas aos seres intergalácticos, ninguém escapa da Marreta Biônica.</info>
+<externallink>https://raw.githubusercontent.com/primedrivefhd-cyber/drive/refs/heads/main/library/tvshows/01/294344/01.xml</externallink>
+</channel>
+
+<channel>
 <name>Castlevania: Noturno</name>
 <year>2023</year>
 <genre>Animação, Sci-Fi & Fantasy, Drama</genre>
