@@ -4,9 +4,9 @@
 
 <channel>
 <name>FILMES DE LUTA</name>
-<genre>Aventura, Animação, Comédia, Família</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/ehoZnL5usVagZOJ2VccmqZKa8in.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/v46tzzYiG2FIXqtuuo1OLSjOLuQ.jpg</fanart>
+<genre>Luta</genre>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/luta.png</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kPaxzVzOCmBVBu1otsSfgrC2bwF.jpg</fanart>
 <info>Confira a seguir a seleção de melhores filmes Com Lutas Incríveis.</info>
 <externallink>https://raw.githubusercontent.com/primedrivefhd-cyber/drive/refs/heads/main/library/movies/coletaneas/1300926.xml</externallink>
 </channel>
