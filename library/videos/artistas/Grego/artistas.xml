@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
-<!-- SERIES LETRA A INCIAL -->
-
+  
+ <channel>
+<name>Videoclipe</name>
+<genre>Hip hop</genre>
+<thumbnail>https://github.com/anonimo2027/Biblioteca-oficial/blob/main/Grego.png?raw=true</thumbnail>
+<fanart>https://static.vecteezy.com/ti/fotos-gratis/t1/37044052-ai-gerado-estudio-tiro-do-preto-fones-de-ouvido-sobre-musica-nota-explosao-fundo-com-esvaziar-espaco-para-texto-foto.jpg</fanart>
+<info>Pablo Victor Gomes Macedo, mais conhecido como Grego, é um cantor e compositor brasileiro. Se tornou relevante em 2023 após o lançamento do single Pane no Sistema com Paulo Pires.</info>
+<externallink>https://raw.githubusercontent.com/primedrivefhd-cyber/drive/refs/heads/main/library/tvshows/01/157239/01.xml</externallink>
+</channel>
+ 
 <channel>
-<name>Grego</name>
+<name>DVD</name>
 <genre>Hip hop</genre>
 <thumbnail>https://github.com/anonimo2027/Biblioteca-oficial/blob/main/Grego.png?raw=true</thumbnail>
 <fanart>https://static.vecteezy.com/ti/fotos-gratis/t1/37044052-ai-gerado-estudio-tiro-do-preto-fones-de-ouvido-sobre-musica-nota-explosao-fundo-com-esvaziar-espaco-para-texto-foto.jpg</fanart>
